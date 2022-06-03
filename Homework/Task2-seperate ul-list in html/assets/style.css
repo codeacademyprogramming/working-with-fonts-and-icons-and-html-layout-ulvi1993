@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+ul{
+    padding: 30px;
+    font-family: sans-serif;
+    list-style: none;
+    columns: 2;
+    width: 500px;
+    height: 120px;
+    color: gray;
+}
+ul li:nth-child(10){
+    margin-bottom: 30px;
+}
+
+
+    
